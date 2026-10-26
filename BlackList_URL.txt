@@ -227,7 +227,7 @@ kmu-gov.ua.mikepeirce.com
 kmu-gov.ua.oselpaints.com
 kmu-gov.ua.pyteneman.com
 kmu-gov.ua.pywild.com
-1drv.ms
+#1drv.ms --> Falos Positivo
 kmu-gov.ua.ricketspedia.com
 kmu-gov.ua.seanetstreamservices.com
 kmu-gov.ua.sistemadiverti.com
